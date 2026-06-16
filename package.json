@@ -8,6 +8,7 @@
     "dev": "nodemon index.js"
   },
   "dependencies": {
+    "express": "^4.19.2", 
     "imap-simple": "^5.1.0",
     "mailparser": "^3.7.1",
     "mongoose": "^8.0.0",
