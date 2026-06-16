@@ -1,3 +1,4 @@
+request('./backup.js');
 const { Telegraf, Markup } = require('telegraf');
 const { TelegramClient, Api } = require('telegram'); // Api import add kiya gaya profile update ke liye
 const { StringSession } = require('telegram/sessions');
